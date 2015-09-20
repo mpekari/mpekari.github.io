@@ -3,13 +3,15 @@ title       : Apartment Price Predictor
 subtitle    : Developing Data Products Course Project
 author      : Matti Pekari
 job         : 
-framework   : io2012       # {io2012, html5slides, shower, dzslides, ...}
+framework   : io2012      # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
+
+## 
 
 ## Introduction
 
